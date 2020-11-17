@@ -4,7 +4,7 @@
 
     <groupId>no.ssb.jpms</groupId>
     <artifactId>jpms-checker-qual</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>jsr305-and-javax.annotation-api</name>
@@ -38,7 +38,7 @@
         <connection>scm:git:git://github.com/statisticsnorway/jpms-checker-qual</connection>
         <developerConnection>scm:git:git@github.com:statisticsnorway/jpms-checker-qual</developerConnection>
         <url>https://github.com/statisticsnorway/jpms-checker-qual/tree/master</url>
-        <tag>HEAD</tag>
+        <tag>jpms-checker-qual-1.1</tag>
     </scm>
 
     <dependencies>
